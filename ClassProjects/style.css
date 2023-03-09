@@ -1,0 +1,23 @@
+#contactInfo{
+    width: 175px;
+    height: 150px;
+    background-color: orange;
+    /* box-sizing: border-box; */
+    position: fixed; top:70%; left:44%;               
+}
+body{
+    background-color:black;
+    color: white;
+}
+.center{    
+    text-align: center; 
+}
+#location{
+    position:fixed; left:43%; top:10%;
+}
+#topBox{
+    text-align: right;
+    width: auto;
+    background-color:orange;
+    padding-right: auto;
+}

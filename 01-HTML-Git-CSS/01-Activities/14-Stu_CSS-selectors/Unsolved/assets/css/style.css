@@ -1,0 +1,42 @@
+/* TODO: Label selector type */
+/* all elements on the page selected */
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+/* TODO: Label selector type */
+body {
+  background-color: lemonchiffon;
+}
+header,
+footer {
+  /* adding width to 100% of screen size */
+  width: 100%;
+  /* making the height to 100 pixels */
+  height: 100px;
+  /* making the line height to 100 pixels */
+  line-height: 100px;
+  /* making the color white */
+  color: #f0ead6;
+/* background color blue */
+  background-color: #191970;
+}
+
+figure {
+  /* makes the picture width 200 pixels */
+  width: 200px;
+  /* makes the background color of the picture white */
+  background-color: #f0ead6;
+}
+
+/* TODO: Label selector type */
+.highlighted-text {
+  /* makes the class highlighted-text bolder */
+  font-weight: bolder;
+}
+
+/* TODO: Label selector type */
+#contact-section {
+  /* makes contact-section id background color   */
+  background-color: #f0ead6;
+}
